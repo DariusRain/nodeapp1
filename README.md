@@ -6,4 +6,8 @@ git add . -- means to add all files in current directory
 *command 4*'git commit -m "commit message" ' -- First commit should always be initial commit(Mainly Used)
 'git commit' to open commit file
 *command 5*'git checkout -b "index.html_and_index.js"' --Creates a new branch
+<<<<<<< HEAD
 !! You change master branch only when ready to submit !!
+=======
+ 
+>>>>>>> index.html_and_index.js

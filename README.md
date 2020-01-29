@@ -1,10 +1,4 @@
 
-<style>
-#body-color { 
-    background-color: yellow;
-};
-</style>
-</head>
-<body id="body-color">
+<div style="backround-color: yellow;">
 <h1>Node App 1</h1>
- </body>
+</div>

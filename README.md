@@ -1,6 +1,8 @@
 
 <style>
-.body-color: yellow;
+.body-color { 
+    background-color: yellow;
+};
 </style>
 </head>
 <body class="body-color">

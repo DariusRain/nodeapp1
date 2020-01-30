@@ -1,17 +1,12 @@
- 
-<h1 align="center"> Node.js Course with <a href="https://www.youtube.com/user/programmingwithmosh">Mosh</a><br> <br> Section 4. Building RESTful APIs Using Express </h1>
+<div align="center"> 
+<h1>Node.js Course with <a href="https://www.youtube.com/user/programmingwithmosh">Mosh</a></h1>
+<h2>Section 4. Building RESTful APIs Using Express</h2>
+ </div>
 <hr>
 
-## 
-
-
-
-&nbsp;
 ### What is REST or RESTful API?<br>
-//[_REPRESENTATIONAL STATE TRANSFER_](https://doubleoctopus.com/security-wiki/protocol/representational-state-transfer/) 
 
-
-
+//[_REPRESENTATIONAL STATE TRANSFER_](https://doubleoctopus.com/security-wiki/protocol/representational-state-transfer/)
 
 &nbsp;
 
@@ -116,21 +111,25 @@ Code:<br>
 &nbsp;
 
 ### [_7)_](https://youtu.be/pKd0Rpw7O48?t=1522) Handling 'GET' requests.
-Code: <br> 
+
+Code: <br>
 &nbsp;
 //Use the route parameter's value with the find() method that returns based on a set boolean comparison. <br>
-//See comments here [_branch:4-7@index.js_](https://github.com/DariusRain/nodejs-course/blob/4-7-handling-get-requests-33-10/section-4-restful-api/index.js)<br> 
+//See comments here [_branch:4-7@index.js_](https://github.com/DariusRain/nodejs-course/blob/4-7-handling-get-requests-33-10/section-4-restful-api/index.js)<br>
 
 &nbsp;
 
 ### [_8)_](https://youtu.be/pKd0Rpw7O48?t=1810) Handling 'POST' requests.
+
 Code: <br>
 &nbsp;
 //Use the '.post()' method with express and add the route and callback that returns the value of a new post.<br>
 //See comments here [_branch:4-8@index.js_](https://github.com/DariusRain/nodejs-course/blob/4-8-handling-post-requests-33-54/section-4-restful-api/index.js)<br>
 
 &nbsp;
-### [_9)_](https://youtu.be/pKd0Rpw7O48?t=2035) Install and use [_Postman_](https://www.getpostman.com/downloads/). 
+
+### [_9)_](https://youtu.be/pKd0Rpw7O48?t=2035) Install and use [_Postman_](https://www.getpostman.com/downloads/).
+
 Note: Skip download & installment of Postman if you allready have it. <br>
 &nbsp;
 //Postman is a software that helps developers test their APIs by sending and retriving data using its features. <br>
@@ -138,7 +137,9 @@ Note: Skip download & installment of Postman if you allready have it. <br>
 //So Postman is a great help in development. <br>
 
 &nbsp;
+
 ### [_10)_](https://youtu.be/pKd0Rpw7O48?t=2163) Input Validation.
+
 Code:<br>
 &nbsp;
 //See comments here [_branch:4-10@index.js_](https://github.com/DariusRain/nodejs-course/blob/4-10-input-validation-example-36-04/section-4-restful-api/index.js)<br>
@@ -146,7 +147,9 @@ Code:<br>
 //But in real world application you should use a node package similar to express but to handle the validation of data being sent to the client. <br>
 //So in the next section I will be using the Joi package from [_npm_](https://npmjs.com). <br>
 &nbsp;
+
 ### [_11)_](https://youtu.be/pKd0Rpw7O48?t=2270) Input Validation with npm package [_'Joi'_](https://www.npmjs.com/package/@hapi/joi).
+
 Code: <br>
 &nbsp;
 //See comments here [_branch:4-11@index.js_](https://github.com/DariusRain/nodejs-course/blob/4-11-joi-input-validation-37-50/section-4-restful-api/index.js)<br>
@@ -154,7 +157,9 @@ Code: <br>
 //Joi also validates any new data sent by the client based in any schema you set in place.<br>
 //IMPORTANT: Syntax changes due to new owner of git repo (Explain new syntax in [_comments_](https://github.com/DariusRain/nodejs-course/blob/4-11-joi-input-validation-37-50/section-4-restful-api/index.js)).<br>
 &nbsp;
+
 ### [_12)_](https://youtu.be/pKd0Rpw7O48?t=2643) Handling 'PUT' requests.
+
 Code: <br>
 &nbsp;
 //See comments here [_branch:4-12@index.js_](https://github.com/DariusRain/nodejs-course/blob/4-12-handling-put-requests-44-03/section-4-restful-api/index.js)<br>
@@ -164,6 +169,7 @@ Code: <br>
 &nbsp;
 
 ### [_13)_](https://youtu.be/pKd0Rpw7O48?t=3153) Handling 'DELETE' requests.
+
 Code: <br>
 &nbsp;
 //See comments here [_branch:4-12@index.js_](https://github.com/DariusRain/nodejs-course/blob/4-13-handling-delete-requests-52-33/section-4-restful-api/index.js)<br>

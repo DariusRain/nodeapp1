@@ -1,8 +1,9 @@
 <div align="center"> 
 <h1>Node.js Course with <a href="https://www.youtube.com/user/programmingwithmosh">Mosh</a></h1>
+<hr>
 <h2>Section 4. Building RESTful APIs Using Express</h2>
  </div>
-<hr>
+
 
 ### What is REST or RESTful API?<br>
 

@@ -2,15 +2,13 @@
 <h1 align="center"> Node.js Course with <a href="https://www.youtube.com/user/programmingwithmosh">Mosh</a> </h1>
 <hr>
 
-## Section 4. Building RESTful APIs Using Express<br>
+## Section 4. Building RESTful APIs Using Express
 
-&nbsp;
+
 
 &nbsp;
 ### What is REST or RESTful API?<br>
 //[_REPRESENTATIONAL STATE TRANSFER_](https://doubleoctopus.com/security-wiki/protocol/representational-state-transfer/) 
-
-
 
 
 

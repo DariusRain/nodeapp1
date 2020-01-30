@@ -1,6 +1,6 @@
 <div align="center"> 
+<kbd align="left">Darius Rain</kbd>
 <h1>Node.js Course with <a href="https://www.youtube.com/user/programmingwithmosh">Mosh</a></h1>
-<hr>
 <h2>Section 4. Building RESTful APIs Using Express</h2>
  </div>
 

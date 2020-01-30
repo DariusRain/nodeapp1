@@ -3,7 +3,7 @@
 
 <h1>Node.js Course with <a href="https://www.youtube.com/user/programmingwithmosh">Mosh</a></h1>
 <h2>Section 4. Building RESTful APIs Using Express</h2>
- <hr color="black">
+ <hr style="color: black;">
  </div>
 
 

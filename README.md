@@ -1,5 +1,5 @@
  
-<h1 align="center"> Node.js Course with [_Mosh_](https://www.youtube.com/user/programmingwithmosh) </h1>
+<h1 align="center"> Node.js Course with <a href="https://www.youtube.com/user/programmingwithmosh>Mosh</a> </h1>
 <hr>
 
 ## Section 4. Building RESTful APIs Using Express<br>
